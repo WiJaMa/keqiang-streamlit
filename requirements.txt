@@ -2,4 +2,5 @@ pandas
 numpy
 streamlit
 plotly
+tensorflow-cpu
 statsmodels.api
